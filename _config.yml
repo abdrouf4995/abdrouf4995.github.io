@@ -22,6 +22,7 @@ timezone: Asia/Dubai
 # ↓ --------------------------
 
 title: Tech Head                          # the main title
+favicon: /assets/img/favicons/favicon.ico
 
 tagline: Blog / Doc for YouTube videos   # it will display as the sub-title
 
