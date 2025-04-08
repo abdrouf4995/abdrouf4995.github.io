@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring OpenRouter: Your Gateway to Diverse AI Models"
 date: 2025-04-06 13:17:39 +0400
-categories: [AI, Technology]
+categories: [AI, Technology, API]
 tags: [openrouter, llm, api, ai models]
 image: /assets/img/oprt.png
 ---
