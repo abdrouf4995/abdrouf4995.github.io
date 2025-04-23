@@ -59,7 +59,8 @@ analytics:
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
-
+picture:
+  lazy_load: false
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
