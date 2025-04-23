@@ -4,7 +4,7 @@ title: "Exploring OpenRouter: Your Gateway to Diverse AI Models"
 date: 2025-04-06 13:17:39 +0400
 categories: [AI, Technology, API]
 tags: [openrouter, llm, api, ai models]
-image: /assets/img/oprt.WebP
+image: /assets/img/oprt.webp
 ---
 
 In the rapidly evolving landscape of Artificial Intelligence, Large Language Models (LLMs) are becoming increasingly powerful and specialized. However, accessing and experimenting with different models often involves integrating multiple APIs and managing separate accounts. This is where OpenRouter comes in.
